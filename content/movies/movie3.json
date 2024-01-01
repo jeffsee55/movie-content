@@ -1,0 +1,8 @@
+{
+  "title": "Come Together",
+  "description": "That's what the holidays are all about",
+  "year": 2020,
+  "director": "content/directors/director3.json",
+  "actors": ["content/actors/actor1.md"],
+  "crew": ["content/crew/crew3.md", "content/crew/crew1.md"]
+}

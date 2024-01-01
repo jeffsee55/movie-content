@@ -1,0 +1,13 @@
+{
+  "title": "The Adventure Begins",
+  "movie": "content/movies/movie1.json",
+  "blocks": [
+    { "type": "hero", "title": "This is some info about us" },
+    { "type": "cta", "title": "Sign Up Today" },
+    {
+      "type": "quote",
+      "message": "Theyre great",
+      "author": "content/actors/actor1.md"
+    }
+  ]
+}

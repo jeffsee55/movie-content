@@ -1,0 +1,9 @@
+{
+  "title": "Dreamland!",
+  "description": "A movie about dreams",
+  "year": 2023,
+  "director": "content/directors/director1.json",
+  "actors": ["content/actors/actor1.md"],
+  "images": ["content/assets/asset2.json", "content/assets/asset3.json"],
+  "crew": ["content/crew/crew3.md", "content/crew/crew4.md"]
+}

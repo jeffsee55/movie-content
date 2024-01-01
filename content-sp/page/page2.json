@@ -1,0 +1,11 @@
+{
+  "title": "About us",
+  "blocks": [
+    {
+      "type": "quote",
+      "message": "Update this",
+      "author": "content/actors/actor2.md"
+    },
+    { "type": "cta", "title": "Sign Up Today" }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "title": "The Adventure Begins",
+  "blocks": ["content/cta/cta1.json", "content/hero/hero1.json"]
+}
