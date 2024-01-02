@@ -2,7 +2,7 @@
   "title": "The Adventure Begins, now!",
   "description": "Let the new adventure begin",
   "year": 2022,
-  "director": "content/directors/director2.json",
+  "director": "content/directors/director3.json",
   "actors": ["content/actors/actor1.md"],
   "crew": ["content/crew/crew3.md", "content/crew/crew1.md"],
   "similarMovies": ["content/movies/movie2"]
