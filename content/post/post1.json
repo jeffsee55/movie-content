@@ -1,0 +1,11 @@
+{
+  "title": "Hello, world!",
+  "author": "content/directors/director1.json",
+  "seo": {
+    "title": "Hello, from SEO",
+    "tags": [
+      { "name": "description", "value": "This is my site. Welcome!" },
+      { "name": "image", "value": "This is an image" }
+    ]
+  }
+}
