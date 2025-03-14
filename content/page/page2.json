@@ -6,6 +6,10 @@
       "message": "Update this",
       "author": "content/actors/actor2.md"
     },
-    { "type": "cta", "title": "Sign Up Today" }
+    {
+      "type": "cta",
+      "title": "Sign Up Today",
+      "author": "content/actors/actor5.md"
+    }
   ]
 }
