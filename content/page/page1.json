@@ -3,7 +3,11 @@
   "movie": "content/movies/movie1.json",
   "blocks": [
     { "type": "hero", "title": "This is some info about us" },
-    { "type": "cta", "title": "Sign Up Today" },
+    {
+      "type": "cta",
+      "title": "Sign Up Today",
+      "author": "content/actors/actor4.md"
+    },
     {
       "type": "quote",
       "message": "Theyre great",
