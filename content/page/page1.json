@@ -4,7 +4,10 @@
   "blocks": [
     {
       "type": "hero",
-      "title": { "en": "This is some info about us", "sp": "Ese esa abouta me" }
+      "title": {
+        "en": "This is some info about us!",
+        "sp": "Ese esa abouta me"
+      }
     },
     {
       "type": "cta",
