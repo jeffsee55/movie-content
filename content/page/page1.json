@@ -2,7 +2,10 @@
   "title": "The Adventure Begins",
   "movie": "content/movies/movie1.json",
   "blocks": [
-    { "type": "hero", "title": "This is some info about us" },
+    {
+      "type": "hero",
+      "title": { "en": "This is some info about us", "sp": "Ese esa abouta me" }
+    },
     {
       "type": "cta",
       "title": "Sign Up Today",
